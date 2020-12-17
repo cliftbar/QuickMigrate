@@ -1,0 +1,16 @@
+"default":
+    "dialect": "postgres"
+    "host": "localhost"
+    "port": 5432
+    "username": ""
+    "password": ""
+    "database": "dbmigrations"
+    "connection_warning": false
+"prd":
+    "dialect": "postgres"
+    "host": "localhost"
+    "port": 5432
+    "username": ""
+    "password": ""
+    "database": "dbmigrations"
+    "connection_warning": true
